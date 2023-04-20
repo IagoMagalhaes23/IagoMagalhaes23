@@ -20,7 +20,7 @@ Alguns projetos que me orgulho ter participado e contribuido foram, o desenvolvi
 - 📫 Onde me achar: 
   - [@iago_magalhaes11](https://www.linkedin.com/in/iago-magalh%C3%A3es-81a3ab1b7/);
   - [Portfólio](https://iagomagalhaes23.github.io/iagomagalhaes/);
-  - [Email](iagomagalhaes23@gmail.com)
+  - Email: iagomagalhaes23@gmail.com
 
 ### Visitantes
 <p align="center"> 
