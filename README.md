@@ -25,7 +25,7 @@ Alguns projetos que me orgulho ter participado e contribuido foram, o desenvolvi
 ### Visitantes
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+  <img src="https://profile-counter.glitch.me/iagomagalhaes23/count.svg" />
 </p>
 
 <br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iagomagalhaes23&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
