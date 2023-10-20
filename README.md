@@ -1,13 +1,13 @@
 # Olá👋🏾
 
-Meu nome é Iago Magalhães. Sou tecnologo em Mecatrônica Industrial pelo IFCE Campus Sobral 💻🛠⚙️. Tenho 24 anos e sou apaixonado por resolver problemas, aprender e criar projetos inovadores. Estou sempre aberto a novos desafios e buscando novas soluções.
+Meu nome é Iago Magalhães. Sou tecnologo em Mecatrônica Industrial pelo IFCE Campus Sobral e atualmente sou mestrando na área de visão computacional 💻🛠⚙️. Tenho 24 anos e sou apaixonado por resolver problemas, aprender e criar projetos inovadores. Estou sempre aberto a novos desafios e buscando novas soluções.
 
 Tenho experiência com as linguagens Python, Java, PHP, JavaScript, SQL e C. Tenho um amor muito grande pelas áreas de Machine Learning e Computer Vision, onde construir minha carreira na vida acadêmica durante a graduação, desenvolvendo artigos cientificos, participando de projetos iniciação científica e desenvolvendo projetos pessoais. Durante esse período, desenvolvi projetos de predição, classificação, reconhecimento de faces e objetos, redes CNN, LSTM e GRU. Trabalhei com os frameworks TensorFlow, PyTorch, OpenCV, SKImage, SKLearn, Pandas, MatplotLib, Flask, DJango, YoLo, Detectron2, Open3D e StreamLit.
 
 Alguns projetos que me orgulho ter participado e contribuido foram, o desenvolvimento de robô seguidor de linha com PID, drone controlado por Arduino, sistema de irrigação automatizado, sistema de irrigação com previsão de umidade do solo, classificador de pacientes como Covid-19 e previsão de peso de melões.
 
 ## O que faço atualmente?
-- Estudo sobre Docker, AWS e TDD;
+- Estudo sobre Docker, AWS, Depth Image e TDD;
 - Atuo como volutário na Liga Ecoar;
 - Aprendendo inglês;
 - Impressões 3D;
