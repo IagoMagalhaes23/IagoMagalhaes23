@@ -7,11 +7,11 @@ Tenho experiência com as linguagens Python, Java, PHP, JavaScript, SQL e C. Ten
 Alguns projetos que me orgulho ter participado e contribuido foram, o desenvolvimento de robô seguidor de linha com PID, drone controlado por Arduino, sistema de irrigação automatizado, sistema de irrigação com previsão de umidade do solo, classificador de pacientes como Covid-19 e previsão de peso de melões.
 
 ## O que faço atualmente?
-- Estudo sobre Docker, AWS, Depth Image e TDD;
+- Estudo sobre Docker, AWS e Depth Image;
 - Atuo como volutário na Liga Ecoar;
 - Aprendendo inglês;
 - Impressões 3D;
-- Crio projetos com Arduino, ESP32 e Raspberry para automatizar minha casa;
+- Crio projetos com Arduino, ESP32 e Raspberry para automatizar minha casa e sítio;
 - Cuido de plantinhas e animais.
 
 ### 🔭🖌📚🔎 "Fracasso é uma possibilidade por aqui. Se as coisas não estão fracassando, você não está inovando o suficiente - Steve Jobs"
