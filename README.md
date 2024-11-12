@@ -63,7 +63,7 @@ Alguns projetos que me orgulho ter participado e contribuido foram, o desenvolvi
   </a>
 
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/raspberrypi.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry pi" width="40" height="40"/>
   </a>
 
   #### Ferramentas
